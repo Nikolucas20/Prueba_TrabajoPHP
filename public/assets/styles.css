@@ -1,0 +1,23 @@
+.form-component{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.form-tareas{
+    border-radius: 20px;
+    width: 50%;
+    padding: 10px;
+    border: 2px solid black;
+    height: 70%;
+}
+
+th,td {
+    padding: 0.4rem !important;
+}
+
+.contenedor-lista{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
